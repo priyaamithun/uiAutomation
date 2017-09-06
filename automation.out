@@ -1,0 +1,6 @@
+2017-09-06 16:53:05 INFO  TC001_loginWithInvalidCredentials:33 - -------Starting test----
+2017-09-06 16:53:06 INFO  homePage:33 - redirecting to sign in page [[ChromeDriver: chrome on XP (a41c4328494c72549baa3db5898be2a9)] -> xpath: html/body/div[1]/div[1]/header/div[2]/div/div/nav/div[1]/a]
+2017-09-06 16:53:07 INFO  homePage:35 - entering login email [[ChromeDriver: chrome on XP (a41c4328494c72549baa3db5898be2a9)] -> xpath: html/body/div[1]/div[2]/div/div[3]/div/div/div[2]/form/div/div[1]/input]
+2017-09-06 16:53:07 INFO  homePage:37 - entering login password [[ChromeDriver: chrome on XP (a41c4328494c72549baa3db5898be2a9)] -> xpath: html/body/div[1]/div[2]/div/div[3]/div/div/div[2]/form/div/div[2]/span/input]
+2017-09-06 16:53:07 INFO  homePage:39 - clicking submit [[ChromeDriver: chrome on XP (a41c4328494c72549baa3db5898be2a9)] -> xpath: html/body/div[1]/div[2]/div/div[3]/div/div/div[2]/form/div/p[2]/button]
+2017-09-06 16:53:07 INFO  TC001_loginWithInvalidCredentials:37 - -------Finished test----
