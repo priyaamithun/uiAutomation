@@ -6,6 +6,7 @@ import org.apache.log4j.LogManager;
 import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.interactions.Action;
 import org.openqa.selenium.interactions.Actions;
 import org.testng.log4testng.Logger;
@@ -16,7 +17,7 @@ public class testBase {
 	private static org.apache.log4j.Logger log = LogManager.getLogger(testBase.class.getName());
 public WebDriver driver;
 public Actions action;
-String url="https://www.wayfair.com/?refid=YGX30301005589.Ebay~e&device=c";
+String url="https://www.wayfair.com/";
 String browser = "chrome";
 
 
@@ -34,6 +35,11 @@ UIActions();
 			log.info("creating object of "+browser);
 			System.setProperty("webdriver.chrome.driver",System.getProperty("user.dir")+"/drivers/chromedriver.exe");
 		driver = new ChromeDriver();	
+		}
+		else if(browser.equalsIgnoreCase("firefox")){
+			System.setProperty("webdriver.gecko.driver",System.getProperty("user.dir")+"/drivers/geckodriver.exe");
+			driver = new FirefoxDriver();	
+
 		}
 	}
 	public void getUrl(){

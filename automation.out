@@ -88,3 +88,15 @@
 2017-09-07 08:39:15 INFO  RegistrationPage:57 - clicking submit button
 2017-09-07 08:39:15 INFO  TC002_RegistrationPage:36 - creating object for action class
 2017-09-07 08:39:15 INFO  TC002_RegistrationPage:38 - checking the values assert
+2017-09-07 12:16:54 INFO  TC002_RegistrationPage:31 - creating object for registratin class
+2017-09-07 12:16:54 INFO  TC002_RegistrationPage:33 - entering signup credentials
+2017-09-07 12:16:54 INFO  RegistrationPage:44 - using action object for mouseover
+2017-09-07 12:18:28 INFO  TC002_RegistrationPage:31 - creating object for registratin class
+2017-09-07 12:18:28 INFO  TC002_RegistrationPage:33 - entering signup credentials
+2017-09-07 12:18:28 INFO  RegistrationPage:44 - using action object for mouseover
+2017-09-07 12:18:34 INFO  RegistrationPage:47 - navigating to Account page
+2017-09-07 12:18:34 INFO  RegistrationPage:49 - entering email credentials
+2017-09-07 12:18:36 INFO  RegistrationPage:55 - entering password  credentials
+2017-09-07 12:18:36 INFO  RegistrationPage:57 - clicking submit button
+2017-09-07 12:18:36 INFO  TC002_RegistrationPage:36 - creating object for action class
+2017-09-07 12:18:36 INFO  TC002_RegistrationPage:38 - checking the values assert
