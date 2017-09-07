@@ -11,6 +11,7 @@ import org.openqa.selenium.interactions.Action;
 import org.openqa.selenium.interactions.Actions;
 import org.testng.log4testng.Logger;
 
+import com.test.automation.uiautomation.excelReader.Excel_reader;
 import com.test.automation.uiautomation.homePage.TC001_loginWithInvalidCredentials;
 
 public class testBase {
@@ -53,5 +54,12 @@ UIActions();
 	  
 	  action = new Actions(driver);
 	}
+	public String[][] getData(String excel_name,String sheetName){
+		String path = System.getProperty("user.dir")+excel_name;
+		Excel_reader excel = new Excel_reader(path);
+		String[][] data = excel.getDataFromSheet(sheetName, excel_name);
+	return data;
+	}
+	
 	
 }

@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="RegressionTest" duration-ms="26434" started-at="2017-09-07T17:18:14Z" finished-at="2017-09-07T17:18:41Z">
+  <suite name="Default suite" duration-ms="19821" started-at="2017-09-07T19:57:07Z" finished-at="2017-09-07T19:57:27Z">
     <groups>
     </groups>
-    <test name="TC002_RegistrationPage" duration-ms="26434" started-at="2017-09-07T17:18:14Z" finished-at="2017-09-07T17:18:41Z">
-      <class name="com.test.automation.uiautomation.registrationPage.TC002_RegistrationPage">
-        <test-method status="PASS" signature="BeforesignUp()[pri:0, instance:com.test.automation.uiautomation.registrationPage.TC002_RegistrationPage@59494225]" name="BeforesignUp" is-config="true" duration-ms="13529" started-at="2017-09-07T12:18:14Z" finished-at="2017-09-07T12:18:28Z">
+    <test name="Default test" duration-ms="19821" started-at="2017-09-07T19:57:07Z" finished-at="2017-09-07T19:57:27Z">
+      <class name="com.test.automation.uiautomation.homePage.TC003_VerifyingLoginWithDifferentRecords">
+        <test-method status="PASS" signature="BeforeLogin()[pri:0, instance:com.test.automation.uiautomation.homePage.TC003_VerifyingLoginWithDifferentRecords@59494225]" name="BeforeLogin" is-config="true" duration-ms="13365" started-at="2017-09-07T14:57:07Z" finished-at="2017-09-07T14:57:20Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- BeforesignUp -->
-        <test-method status="PASS" signature="signUpCredentials()[pri:0, instance:com.test.automation.uiautomation.registrationPage.TC002_RegistrationPage@59494225]" name="signUpCredentials" duration-ms="12883" started-at="2017-09-07T12:18:28Z" finished-at="2017-09-07T12:18:41Z">
+        </test-method> <!-- BeforeLogin -->
+        <test-method status="PASS" signature="TestLogin()[pri:0, instance:com.test.automation.uiautomation.homePage.TC003_VerifyingLoginWithDifferentRecords@59494225]" name="TestLogin" duration-ms="6432" started-at="2017-09-07T14:57:20Z" finished-at="2017-09-07T14:57:27Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- signUpCredentials -->
-        <test-method status="PASS" signature="endTest()[pri:0, instance:com.test.automation.uiautomation.registrationPage.TC002_RegistrationPage@59494225]" name="endTest" is-config="true" duration-ms="0" started-at="2017-09-07T12:18:41Z" finished-at="2017-09-07T12:18:41Z">
+        </test-method> <!-- TestLogin -->
+        <test-method status="PASS" signature="AfterLogin()[pri:0, instance:com.test.automation.uiautomation.homePage.TC003_VerifyingLoginWithDifferentRecords@59494225]" name="AfterLogin" is-config="true" duration-ms="1" started-at="2017-09-07T14:57:27Z" finished-at="2017-09-07T14:57:27Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- endTest -->
-      </class> <!-- com.test.automation.uiautomation.registrationPage.TC002_RegistrationPage -->
-    </test> <!-- TC002_RegistrationPage -->
-  </suite> <!-- RegressionTest -->
+        </test-method> <!-- AfterLogin -->
+      </class> <!-- com.test.automation.uiautomation.homePage.TC003_VerifyingLoginWithDifferentRecords -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
