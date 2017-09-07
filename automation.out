@@ -4,3 +4,87 @@
 2017-09-06 16:53:07 INFO  homePage:37 - entering login password [[ChromeDriver: chrome on XP (a41c4328494c72549baa3db5898be2a9)] -> xpath: html/body/div[1]/div[2]/div/div[3]/div/div/div[2]/form/div/div[2]/span/input]
 2017-09-06 16:53:07 INFO  homePage:39 - clicking submit [[ChromeDriver: chrome on XP (a41c4328494c72549baa3db5898be2a9)] -> xpath: html/body/div[1]/div[2]/div/div[3]/div/div/div[2]/form/div/p[2]/button]
 2017-09-06 16:53:07 INFO  TC001_loginWithInvalidCredentials:37 - -------Finished test----
+2017-09-06 18:41:27 INFO  TC002_RegistrationPage:31 - creating object for registratin class
+2017-09-06 18:41:27 INFO  TC002_RegistrationPage:33 - entering signup credentials
+2017-09-06 18:41:27 INFO  RegistrationPage:39 - using action object for mouseover
+2017-09-06 18:43:18 INFO  TC002_RegistrationPage:31 - creating object for registratin class
+2017-09-06 18:43:19 INFO  TC002_RegistrationPage:33 - entering signup credentials
+2017-09-06 18:43:19 INFO  RegistrationPage:39 - using action object for mouseover
+2017-09-06 18:43:50 INFO  TC002_RegistrationPage:31 - creating object for registratin class
+2017-09-06 18:43:50 INFO  TC002_RegistrationPage:33 - entering signup credentials
+2017-09-06 18:43:50 INFO  RegistrationPage:39 - using action object for mouseover
+2017-09-06 18:49:02 INFO  TC002_RegistrationPage:31 - creating object for registratin class
+2017-09-06 18:49:02 INFO  TC002_RegistrationPage:33 - entering signup credentials
+2017-09-06 18:49:02 INFO  RegistrationPage:39 - using action object for mouseover
+2017-09-06 18:49:57 INFO  TC002_RegistrationPage:31 - creating object for registratin class
+2017-09-06 18:49:57 INFO  TC002_RegistrationPage:33 - entering signup credentials
+2017-09-06 18:49:57 INFO  RegistrationPage:39 - using action object for mouseover
+2017-09-06 18:53:18 INFO  TC002_RegistrationPage:31 - creating object for registratin class
+2017-09-06 18:53:18 INFO  TC002_RegistrationPage:33 - entering signup credentials
+2017-09-06 18:53:18 INFO  RegistrationPage:39 - using action object for mouseover
+2017-09-06 18:53:20 INFO  RegistrationPage:42 - navigating to Account page
+2017-09-06 18:53:20 INFO  RegistrationPage:44 - entering email credentials
+2017-09-06 19:01:22 INFO  TC002_RegistrationPage:31 - creating object for registratin class
+2017-09-06 19:01:22 INFO  TC002_RegistrationPage:33 - entering signup credentials
+2017-09-06 19:01:22 INFO  RegistrationPage:44 - using action object for mouseover
+2017-09-06 19:01:58 INFO  TC002_RegistrationPage:31 - creating object for registratin class
+2017-09-06 19:01:58 INFO  TC002_RegistrationPage:33 - entering signup credentials
+2017-09-06 19:01:58 INFO  RegistrationPage:44 - using action object for mouseover
+2017-09-06 19:02:04 INFO  RegistrationPage:47 - navigating to Account page
+2017-09-06 19:02:04 INFO  RegistrationPage:49 - entering email credentials
+2017-09-06 19:04:00 INFO  TC002_RegistrationPage:31 - creating object for registratin class
+2017-09-06 19:04:00 INFO  TC002_RegistrationPage:33 - entering signup credentials
+2017-09-06 19:04:00 INFO  RegistrationPage:44 - using action object for mouseover
+2017-09-06 19:04:24 INFO  TC002_RegistrationPage:31 - creating object for registratin class
+2017-09-06 19:04:24 INFO  TC002_RegistrationPage:33 - entering signup credentials
+2017-09-06 19:04:24 INFO  RegistrationPage:44 - using action object for mouseover
+2017-09-06 19:12:37 INFO  TC002_RegistrationPage:31 - creating object for registratin class
+2017-09-06 19:12:37 INFO  TC002_RegistrationPage:33 - entering signup credentials
+2017-09-06 19:12:37 INFO  RegistrationPage:44 - using action object for mouseover
+2017-09-06 19:12:41 INFO  RegistrationPage:47 - navigating to Account page
+2017-09-06 19:12:41 INFO  RegistrationPage:49 - entering email credentials
+2017-09-06 19:12:42 INFO  RegistrationPage:55 - entering password  credentials
+2017-09-06 19:14:17 INFO  TC002_RegistrationPage:31 - creating object for registratin class
+2017-09-06 19:14:17 INFO  TC002_RegistrationPage:33 - entering signup credentials
+2017-09-06 19:14:17 INFO  RegistrationPage:44 - using action object for mouseover
+2017-09-06 19:14:37 INFO  TC002_RegistrationPage:31 - creating object for registratin class
+2017-09-06 19:14:37 INFO  TC002_RegistrationPage:33 - entering signup credentials
+2017-09-06 19:14:37 INFO  RegistrationPage:44 - using action object for mouseover
+2017-09-06 19:14:58 INFO  TC002_RegistrationPage:31 - creating object for registratin class
+2017-09-06 19:14:58 INFO  TC002_RegistrationPage:33 - entering signup credentials
+2017-09-06 19:14:58 INFO  RegistrationPage:44 - using action object for mouseover
+2017-09-06 19:15:33 INFO  RegistrationPage:47 - navigating to Account page
+2017-09-06 19:15:33 INFO  RegistrationPage:49 - entering email credentials
+2017-09-06 19:15:35 INFO  RegistrationPage:55 - entering password  credentials
+2017-09-06 19:15:35 INFO  RegistrationPage:57 - clicking submit button
+2017-09-06 19:15:35 INFO  TC002_RegistrationPage:36 - creating object for action class
+2017-09-06 19:15:35 INFO  TC002_RegistrationPage:38 - checking the values assert
+2017-09-06 19:15:35 INFO  RegistrationPage:68 - confirming with page title
+2017-09-06 19:19:30 INFO  TC002_RegistrationPage:31 - creating object for registratin class
+2017-09-06 19:19:30 INFO  TC002_RegistrationPage:33 - entering signup credentials
+2017-09-06 19:19:30 INFO  RegistrationPage:44 - using action object for mouseover
+2017-09-06 19:19:40 INFO  RegistrationPage:47 - navigating to Account page
+2017-09-06 19:19:40 INFO  RegistrationPage:49 - entering email credentials
+2017-09-06 19:19:41 INFO  RegistrationPage:55 - entering password  credentials
+2017-09-06 19:19:41 INFO  RegistrationPage:57 - clicking submit button
+2017-09-06 19:19:41 INFO  TC002_RegistrationPage:36 - creating object for action class
+2017-09-06 19:19:41 INFO  TC002_RegistrationPage:38 - checking the values assert
+2017-09-06 19:19:41 INFO  RegistrationPage:68 - confirming with page title
+2017-09-06 19:21:54 INFO  TC002_RegistrationPage:31 - creating object for registratin class
+2017-09-06 19:21:54 INFO  TC002_RegistrationPage:33 - entering signup credentials
+2017-09-06 19:21:54 INFO  RegistrationPage:44 - using action object for mouseover
+2017-09-06 19:22:00 INFO  RegistrationPage:47 - navigating to Account page
+2017-09-06 19:22:00 INFO  RegistrationPage:49 - entering email credentials
+2017-09-06 19:22:03 INFO  RegistrationPage:55 - entering password  credentials
+2017-09-06 19:22:03 INFO  RegistrationPage:57 - clicking submit button
+2017-09-06 19:22:03 INFO  TC002_RegistrationPage:36 - creating object for action class
+2017-09-06 19:22:03 INFO  TC002_RegistrationPage:38 - checking the values assert
+2017-09-07 08:38:56 INFO  TC002_RegistrationPage:31 - creating object for registratin class
+2017-09-07 08:38:58 INFO  TC002_RegistrationPage:33 - entering signup credentials
+2017-09-07 08:38:58 INFO  RegistrationPage:44 - using action object for mouseover
+2017-09-07 08:39:14 INFO  RegistrationPage:47 - navigating to Account page
+2017-09-07 08:39:14 INFO  RegistrationPage:49 - entering email credentials
+2017-09-07 08:39:15 INFO  RegistrationPage:55 - entering password  credentials
+2017-09-07 08:39:15 INFO  RegistrationPage:57 - clicking submit button
+2017-09-07 08:39:15 INFO  TC002_RegistrationPage:36 - creating object for action class
+2017-09-07 08:39:15 INFO  TC002_RegistrationPage:38 - checking the values assert

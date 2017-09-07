@@ -3,13 +3,12 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.test.automation.uiautomation.homePage.TC001_loginWithInvalidCredentials">
+      <class name="com.test.automation.uiautomation.registrationPage.SignOut">
         <methods>
-          <include name="BeforeLogin"/>
-          <include name="endTest"/>
-          <include name="loginWithInvalidCredentials"/>
+          <include name="signOutPage"/>
+          <include name="beforeTest"/>
         </methods>
-      </class> <!-- com.test.automation.uiautomation.homePage.TC001_loginWithInvalidCredentials -->
+      </class> <!-- com.test.automation.uiautomation.registrationPage.SignOut -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
