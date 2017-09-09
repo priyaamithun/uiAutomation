@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [RegressionTest]">
-  <test name="TC002_RegistrationPage(failed)">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
     <classes>
-      <class name="com.test.automation.uiautomation.registrationPage.TC002_RegistrationPage">
+      <class name="com.test.automation.uiautomation.homePage.TC005_SignInExcel">
         <methods>
-          <include name="endTest"/>
-          <include name="signUpCredentials"/>
-          <include name="BeforesignUp"/>
+          <include name="TestLogin" invocation-numbers="0 1 2 3 4 5"/>
+          <include name="AfterLogin"/>
+          <include name="BeforeLogin"/>
         </methods>
-      </class> <!-- com.test.automation.uiautomation.registrationPage.TC002_RegistrationPage -->
+      </class> <!-- com.test.automation.uiautomation.homePage.TC005_SignInExcel -->
     </classes>
-  </test> <!-- TC002_RegistrationPage(failed) -->
-</suite> <!-- Failed suite [RegressionTest] -->
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

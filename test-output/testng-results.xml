@@ -1,25 +1,183 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
   <reporter-output>
+    <line>
+      <![CDATA[<a href= 'D:\SeleniumAppium\uiautomations\src\main\java\com\test\automation\uiautomation\screenShot\TestLogin automation2@gmail.com_09_09_2017_11_36_12.png'> <img src='D:\SeleniumAppium\uiautomations\src\main\java\com\test\automation\uiautomation\screenShot\TestLogin automation2@gmail.com_09_09_2017_11_36_12.png' height = '100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href= 'D:\SeleniumAppium\uiautomations\src\main\java\com\test\automation\uiautomation\screenShot\TestLogin automation2@gmail.com_09_09_2017_11_37_17.png'> <img src='D:\SeleniumAppium\uiautomations\src\main\java\com\test\automation\uiautomation\screenShot\TestLogin automation2@gmail.com_09_09_2017_11_37_17.png' height = '100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href= 'D:\SeleniumAppium\uiautomations\src\main\java\com\test\automation\uiautomation\screenShot\TestLogin automation2@gmail.com_09_09_2017_11_38_21.png'> <img src='D:\SeleniumAppium\uiautomations\src\main\java\com\test\automation\uiautomation\screenShot\TestLogin automation2@gmail.com_09_09_2017_11_38_21.png' height = '100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href= 'D:\SeleniumAppium\uiautomations\src\main\java\com\test\automation\uiautomation\screenShot\TestLogin automation2@gmail.com_09_09_2017_11_39_25.png'> <img src='D:\SeleniumAppium\uiautomations\src\main\java\com\test\automation\uiautomation\screenShot\TestLogin automation2@gmail.com_09_09_2017_11_39_25.png' height = '100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href= 'D:\SeleniumAppium\uiautomations\src\main\java\com\test\automation\uiautomation\screenShot\TestLogin automation2@gmail.com_09_09_2017_11_40_29.png'> <img src='D:\SeleniumAppium\uiautomations\src\main\java\com\test\automation\uiautomation\screenShot\TestLogin automation2@gmail.com_09_09_2017_11_40_29.png' height = '100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href= 'D:\SeleniumAppium\uiautomations\src\main\java\com\test\automation\uiautomation\screenShot\TestLogin automation2@gmail.com_09_09_2017_11_41_34.png'> <img src='D:\SeleniumAppium\uiautomations\src\main\java\com\test\automation\uiautomation\screenShot\TestLogin automation2@gmail.com_09_09_2017_11_41_34.png' height = '100' width='100'/> </a>]]>
+    </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="19821" started-at="2017-09-07T19:57:07Z" finished-at="2017-09-07T19:57:27Z">
+  <suite name="Default suite" duration-ms="400128" started-at="2017-09-09T16:34:54Z" finished-at="2017-09-09T16:41:34Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="19821" started-at="2017-09-07T19:57:07Z" finished-at="2017-09-07T19:57:27Z">
-      <class name="com.test.automation.uiautomation.homePage.TC003_VerifyingLoginWithDifferentRecords">
-        <test-method status="PASS" signature="BeforeLogin()[pri:0, instance:com.test.automation.uiautomation.homePage.TC003_VerifyingLoginWithDifferentRecords@59494225]" name="BeforeLogin" is-config="true" duration-ms="13365" started-at="2017-09-07T14:57:07Z" finished-at="2017-09-07T14:57:20Z">
+    <test name="Default test" duration-ms="400128" started-at="2017-09-09T16:34:54Z" finished-at="2017-09-09T16:41:34Z">
+      <class name="com.test.automation.uiautomation.homePage.TC005_SignInExcel">
+        <test-method status="PASS" signature="BeforeLogin()[pri:0, instance:com.test.automation.uiautomation.homePage.TC005_SignInExcel@4bec1f0c]" name="BeforeLogin" is-config="true" duration-ms="13005" started-at="2017-09-09T11:34:54Z" finished-at="2017-09-09T11:35:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BeforeLogin -->
-        <test-method status="PASS" signature="TestLogin()[pri:0, instance:com.test.automation.uiautomation.homePage.TC003_VerifyingLoginWithDifferentRecords@59494225]" name="TestLogin" duration-ms="6432" started-at="2017-09-07T14:57:20Z" finished-at="2017-09-07T14:57:27Z">
+        <test-method status="PASS" signature="TestLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.uiautomation.homePage.TC005_SignInExcel@4bec1f0c]" name="TestLogin" duration-ms="65028" started-at="2017-09-09T11:35:07Z" data-provider="loginData" finished-at="2017-09-09T11:36:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[automation2@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[y]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
+            <line>
+              <![CDATA[<a href= 'D:\SeleniumAppium\uiautomations\src\main\java\com\test\automation\uiautomation\screenShot\TestLogin automation2@gmail.com_09_09_2017_11_36_12.png'> <img src='D:\SeleniumAppium\uiautomations\src\main\java\com\test\automation\uiautomation\screenShot\TestLogin automation2@gmail.com_09_09_2017_11_36_12.png' height = '100' width='100'/> </a>]]>
+            </line>
           </reporter-output>
         </test-method> <!-- TestLogin -->
-        <test-method status="PASS" signature="AfterLogin()[pri:0, instance:com.test.automation.uiautomation.homePage.TC003_VerifyingLoginWithDifferentRecords@59494225]" name="AfterLogin" is-config="true" duration-ms="1" started-at="2017-09-07T14:57:27Z" finished-at="2017-09-07T14:57:27Z">
+        <test-method status="PASS" signature="TestLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.uiautomation.homePage.TC005_SignInExcel@4bec1f0c]" name="TestLogin" duration-ms="64604" started-at="2017-09-09T11:36:12Z" data-provider="loginData" finished-at="2017-09-09T11:37:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[automation2@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a href= 'D:\SeleniumAppium\uiautomations\src\main\java\com\test\automation\uiautomation\screenShot\TestLogin automation2@gmail.com_09_09_2017_11_37_17.png'> <img src='D:\SeleniumAppium\uiautomations\src\main\java\com\test\automation\uiautomation\screenShot\TestLogin automation2@gmail.com_09_09_2017_11_37_17.png' height = '100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TestLogin -->
+        <test-method status="PASS" signature="TestLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.uiautomation.homePage.TC005_SignInExcel@4bec1f0c]" name="TestLogin" duration-ms="64222" started-at="2017-09-09T11:37:17Z" data-provider="loginData" finished-at="2017-09-09T11:38:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[automation2@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a href= 'D:\SeleniumAppium\uiautomations\src\main\java\com\test\automation\uiautomation\screenShot\TestLogin automation2@gmail.com_09_09_2017_11_38_21.png'> <img src='D:\SeleniumAppium\uiautomations\src\main\java\com\test\automation\uiautomation\screenShot\TestLogin automation2@gmail.com_09_09_2017_11_38_21.png' height = '100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TestLogin -->
+        <test-method status="PASS" signature="TestLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.uiautomation.homePage.TC005_SignInExcel@4bec1f0c]" name="TestLogin" duration-ms="64330" started-at="2017-09-09T11:38:21Z" data-provider="loginData" finished-at="2017-09-09T11:39:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[automation2@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a href= 'D:\SeleniumAppium\uiautomations\src\main\java\com\test\automation\uiautomation\screenShot\TestLogin automation2@gmail.com_09_09_2017_11_39_25.png'> <img src='D:\SeleniumAppium\uiautomations\src\main\java\com\test\automation\uiautomation\screenShot\TestLogin automation2@gmail.com_09_09_2017_11_39_25.png' height = '100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TestLogin -->
+        <test-method status="PASS" signature="TestLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.uiautomation.homePage.TC005_SignInExcel@4bec1f0c]" name="TestLogin" duration-ms="64084" started-at="2017-09-09T11:39:26Z" data-provider="loginData" finished-at="2017-09-09T11:40:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[automation2@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a href= 'D:\SeleniumAppium\uiautomations\src\main\java\com\test\automation\uiautomation\screenShot\TestLogin automation2@gmail.com_09_09_2017_11_40_29.png'> <img src='D:\SeleniumAppium\uiautomations\src\main\java\com\test\automation\uiautomation\screenShot\TestLogin automation2@gmail.com_09_09_2017_11_40_29.png' height = '100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TestLogin -->
+        <test-method status="PASS" signature="TestLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.uiautomation.homePage.TC005_SignInExcel@4bec1f0c]" name="TestLogin" duration-ms="64194" started-at="2017-09-09T11:40:30Z" data-provider="loginData" finished-at="2017-09-09T11:41:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[automation2@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a href= 'D:\SeleniumAppium\uiautomations\src\main\java\com\test\automation\uiautomation\screenShot\TestLogin automation2@gmail.com_09_09_2017_11_41_34.png'> <img src='D:\SeleniumAppium\uiautomations\src\main\java\com\test\automation\uiautomation\screenShot\TestLogin automation2@gmail.com_09_09_2017_11_41_34.png' height = '100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TestLogin -->
+        <test-method status="PASS" signature="AfterLogin()[pri:0, instance:com.test.automation.uiautomation.homePage.TC005_SignInExcel@4bec1f0c]" name="AfterLogin" is-config="true" duration-ms="1" started-at="2017-09-09T11:41:34Z" finished-at="2017-09-09T11:41:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterLogin -->
-      </class> <!-- com.test.automation.uiautomation.homePage.TC003_VerifyingLoginWithDifferentRecords -->
+      </class> <!-- com.test.automation.uiautomation.homePage.TC005_SignInExcel -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

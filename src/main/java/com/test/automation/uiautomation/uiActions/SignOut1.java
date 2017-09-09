@@ -19,8 +19,8 @@ public class SignOut1 extends testBase {
 	
 	
 	public void signout(){
-action = new Actions(driver);
-		action.moveToElement(move).build().perform();
+
+
 		
 	}
 	

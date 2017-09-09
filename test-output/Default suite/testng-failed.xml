@@ -3,12 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.test.automation.uiautomation.registrationPage.SignOut">
+      <class name="com.test.automation.uiautomation.homePage.TC005_SignInExcel">
         <methods>
-          <include name="signOutPage"/>
-          <include name="beforeTest"/>
+          <include name="TestLogin" invocation-numbers="0 1 2 3 4 5"/>
+          <include name="AfterLogin"/>
+          <include name="BeforeLogin"/>
         </methods>
-      </class> <!-- com.test.automation.uiautomation.registrationPage.SignOut -->
+      </class> <!-- com.test.automation.uiautomation.homePage.TC005_SignInExcel -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
